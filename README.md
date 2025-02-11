@@ -53,6 +53,7 @@ We are seeking individuals with expertise in the following areas:
    - Continuously improve based on evaluation results and technological advancements.
 
 7. **User Base and Target Audience:**
+
 1. Academic Institutions
 Universities and Colleges: Sanskrit departments, linguistics programs, and AI research labs.
 
@@ -78,6 +79,7 @@ EdTech Companies: Platforms looking to integrate Sanskrit learning tools.
 AI Developers: Developers interested in leveraging the GenAny API for their applications.
 
 8. **Front-End Usage of Tanzabooks Library in Academics**
+9. 
 1. Digital Library Integration
 Academic Libraries: For Course Libraries for Teachers and student engagement with user metrics.
  
@@ -108,7 +110,7 @@ Discussion Forums: Create forums for discussing texts, research, and learning st
 
 Collaborative Projects: Facilitate collaborative research projects using Tanzabooks resources
 
-**Research references**
+9. **Research references**
 
 1. ByT5-Sanskrit: A Unified Model for Sanskrit NLP Tasks
 
