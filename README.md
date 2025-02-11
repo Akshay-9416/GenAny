@@ -52,6 +52,85 @@ We are seeking individuals with expertise in the following areas:
    - Collect user feedback to refine capabilities.
    - Continuously improve based on evaluation results and technological advancements.
 
+7. **User Base and Target Audience:**
+1. Academic Institutions
+Universities and Colleges: Sanskrit departments, linguistics programs, and AI research labs.
+
+Schools: High schools with Sanskrit curriculum or interest in ancient languages.
+
+Research Organizations: Institutes focused on Indology, computational linguistics, and AI.
+
+2. Students and Scholars
+Sanskrit Students: Learners at all levels, from beginners to advanced scholars.
+
+AI Researchers: Researchers exploring the intersection of AI and linguistics.
+
+Linguists: Scholars studying Sanskrit grammar, phonetics, and semantics.
+
+3. General Public
+Language Enthusiasts: Individuals interested in learning Sanskrit or exploring its linguistic richness.
+
+Cultural Organizations: Groups promoting Indian culture and heritage.
+
+4. Developers and Integrators
+EdTech Companies: Platforms looking to integrate Sanskrit learning tools.
+
+AI Developers: Developers interested in leveraging the GenAny API for their applications.
+
+8. **Front-End Usage of Tanzabooks Library in Academics**
+1. Digital Library Integration
+Academic Libraries: For Course Libraries for Teachers and student engagement with user metrics.
+ 
+Sanskrit Texts: Digitize and annotate ancient scriptures, making them accessible through Tanzabooks.
+
+Interactive Features: Audio and image annotations, dedicated topic wise chat threads, for sanskrit research advanced linguistic tools for Sandhi splitting, compound-word recognition, and phonetic analysis.
+
+Group Learning: Students and teachers can engage in groups to learn collectively with enhanced memory markers.
+
+2. Learning Tools
+Interactive Lessons: Develop lessons that use GenAny for real-time feedback and explanations.
+
+Quizzes and Assessments: Create automated quizzes to test understanding of in local language and vocabulary.
+
+Speech Practice: Integrate the ASR model for pronunciation practice and feedback.
+
+3. Research Tools
+Corpus Analysis: Provide tools for analyzing Sanskrit texts, including frequency analysis, syntax trees, and semantic networks.
+
+Comparative Studies: Enable comparative studies between Sanskrit and other languages.
+
+AI-Driven Insights: Use GenAny to generate insights and hypotheses for linguistic research.
+
+4. Collaborative Features
+Annotations and Notes: Allow users to annotate texts and share notes with peers.
+
+Discussion Forums: Create forums for discussing texts, research, and learning strategies.
+
+Collaborative Projects: Facilitate collaborative research projects using Tanzabooks resources
+
+**Research references**
+
+1. ByT5-Sanskrit: A Unified Model for Sanskrit NLP Tasks
+
+A recent study introduced ByT5-Sanskrit, a pretrained language model specifically designed for Sanskrit. This model addresses the challenges posed by Sanskrit's rich morphology and has demonstrated superior performance in word segmentation tasks compared to previous data-driven approaches. Notably, it matches the performance of the best lexicon-based models currently available. 
+https://arxiv.org/html/2409.13920v1?
+
+2. San-BERT: Extractive Summarization for Sanskrit Documents
+
+Researchers have developed San-BERT, a model utilizing BERT and its variants for extractive summarization of Sanskrit documents. This work demonstrates the applicability of transformer-based architectures to Sanskrit, facilitating tasks such as text summarization. 
+https://arxiv.org/abs/2304.01894?
+
+3. Neural Approaches for Data-Driven Dependency Parsing in Sanskrit
+
+Research presented at the 18th World Sanskrit Conference discusses neural approaches for data-driven dependency parsing in Sanskrit. This work highlights the effectiveness of neural network models in handling the syntactic complexities of Sanskrit, contributing to improved parsing accuracy.
+https://aclanthology.org/2023.wsc-csdh.1.pdf
+
+4. Neural Compound-Word (Sandhi) Generation and Splitting in Sanskrit
+
+A study proposes neural network-based approaches to handle the formation and splitting of compound words (Sandhi) in Sanskrit. The models developed in this research outperform existing methods, despite not using additional lexical or morphological resources. 
+https://arxiv.org/abs/2010.12940?
+
+
 **Join Us**
 
 If you are passionate about artificial intelligence and the Sanskrit language, we invite you to collaborate with us on this groundbreaking project. Together, we can harness the sophistication of Sanskrit to develop a powerful and versatile language model that contributes significantly to the fields of AI and computational linguistics.
