@@ -1,4 +1,9 @@
 # GenAny
+
+
+![1739031634596](https://github.com/user-attachments/assets/69462301-32af-472b-9543-dc44fd3e25cf)
+
+
 This project is about building a foundational LLM with the largest language Sanskrit
 
 We are embarking on an ambitious project to develop a Sanskrit-based Large Language Model (LLM) that leverages the language's rich linguistic structure and extensive vocabulary. This initiative aims to advance artificial intelligence by creating a model that excels in clarity of speech and thought. To achieve this, we seek collaboration with experts across various fields.
