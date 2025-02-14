@@ -1,4 +1,4 @@
-# GenAny
+# GenAny - Largest Language Model
 
 
 ![1739031634596](https://github.com/user-attachments/assets/69462301-32af-472b-9543-dc44fd3e25cf)
